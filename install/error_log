@@ -1,0 +1,6 @@
+[24-Jan-2012 08:55:59] PHP Warning:  fopen(/home/oscdemo/public_html/admin/includes/configure.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 182
+[24-Jan-2012 08:55:59] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 183
+[24-Jan-2012 08:55:59] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 184
+[24-Jan-2012 08:59:37] PHP Warning:  fopen(/home/oscdemo/public_html/admin/includes/configure.php) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 182
+[24-Jan-2012 08:59:37] PHP Warning:  fputs(): supplied argument is not a valid stream resource in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 183
+[24-Jan-2012 08:59:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oscdemo/public_html/install/templates/pages/install_4.php on line 184
